@@ -1,0 +1,23 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "discord.js": "^11.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sharky666/noise-bot.git"
+  },
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sharky666/noise-bot/issues"
+  },
+  "homepage": "https://github.com/Sharky666/noise-bot#readme"
+}
